@@ -68,7 +68,11 @@ ul li a {
   color: white;
   font-family: "Poppins", sans-serif;
 }
+/* Hover effect on navbar */
 
+ul li a:hover {
+  color: #10e590;
+}
 #menu {
   display: none;
   color: white;
